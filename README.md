@@ -1,6 +1,6 @@
 # Assignment-1 (CSC148)
 
-A program that analyzes data extracted from survey questions and uses this data to make optimal groups of students.
+A program that analyzes data extracted from survey questions and uses this data to create an optimal groups of students.
 
 The files edited by me include:
 1. course.py
